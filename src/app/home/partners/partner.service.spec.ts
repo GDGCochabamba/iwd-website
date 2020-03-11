@@ -16,7 +16,7 @@ describe('PartnerService', () => {
   );
 
   it('should be created', () => {
-    const service: PartnerService = TestBed.get(PartnerService);
+    const service: PartnerService = TestBed.inject(PartnerService);
     expect(service).toBeTruthy();
   });
 });
