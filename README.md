@@ -1,4 +1,4 @@
-# GdgWebsite
+# Internation Women's Day Cochabamba Website
 
 [![CircleCI](https://circleci.com/gh/GDGCochabamba/gdg-website.svg?style=svg)](https://circleci.com/gh/GDGCochabamba/gdg-website)
 

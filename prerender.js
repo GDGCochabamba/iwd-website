@@ -5,7 +5,7 @@ const { readFile, exists, writeFile, mkdir } = require('mz/fs');
 
 const PORT = 4000;
 const HOST = `http://localhost:${PORT}`;
-const ROOT_PATH = 'dist/gdg-website';
+const ROOT_PATH = 'dist/iwd-website';
 const STATIC_PATHS = require('./static-paths');
 
 async function main() {
