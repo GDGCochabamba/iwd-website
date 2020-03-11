@@ -114,5 +114,8 @@
       }
     }
   },
-  "defaultProject": "iwd-website"
+  "defaultProject": "iwd-website",
+  "cli": {
+    "analytics": "de6fe43d-33aa-4af8-907f-45b41551ac9b"
+  }
 }
