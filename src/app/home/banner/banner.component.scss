@@ -13,7 +13,7 @@
   font-size: 30px;
   font-weight: 300;
   text-align: center;
-  color: $secondary-color;
+  color: $primary-color;
 
   @media #{$large-and-up} {
     font-size: 60px;
@@ -25,7 +25,7 @@
   height: 34px;
   font-size: 28px;
   text-align: center;
-  color: #ff7976;
+  color: $red-text-color;
 }
 
 #banner-details {
