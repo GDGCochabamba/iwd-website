@@ -5,9 +5,14 @@
     width: 100%;
   }
 
-  .about-us-content {
+  .about-title {
     font-weight: 300;
     font-size: $h5-fontsize;
+  }
+
+  .about-us-content {
+    font-weight: 300;
+    font-size: $h6-fontsize;
     line-height: 2.4rem;
   }
 
